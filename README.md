@@ -1,4 +1,4 @@
-# fesdi
+# FEsdi
 Script per la fattura elettronica
 
 Per l'accesso al portale è stato utilizzato lo script con licenza libera  fornito da  Claudio Pizzillo (FeCscraper), la parte del codice 
